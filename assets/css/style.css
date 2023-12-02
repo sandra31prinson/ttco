@@ -89,6 +89,12 @@ img {
   padding-top: 50px;
 }
 
+
+.disclaimer p{
+
+  font-size: 13px;
+
+}
 /*================================================
 Preloader Area CSS
 =================================================*/
@@ -1187,7 +1193,25 @@ Default News Area CSS
     margin-bottom: 13px;
     padding-top: 8px;
     transition: all 0.5s linear;
+    
 }
+
+.service h3{
+
+  display:flex;
+}
+
+.service i{
+
+  padding-right: 5px;
+}
+
+
+
+
+
+
+
 .single-tech-news h3:hover a {
     color: #fff;
 }
@@ -1985,7 +2009,7 @@ Contact Area CSS
   transition: 0.5s;
   border-radius: 3px;
   /* padding: 1px 0 0 15px; */
-  font-size: 11px;
+  font-size: 14px;
   font-weight: 500;
 }
 
